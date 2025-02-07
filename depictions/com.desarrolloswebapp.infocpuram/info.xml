@@ -1,7 +1,7 @@
 <package>
 	<id>com.desarrolloswebapp.infocpuram</id>
 	<name>InfoCpuRam</name>
-	<version>1.0.0-1</version>
+	<version>0.0.1-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>15.0</miniOS>
