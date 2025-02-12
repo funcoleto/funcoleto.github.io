@@ -1,0 +1,25 @@
+<package>
+	<id>com.yourcompany.trollrecorderchargelimiter</id>
+	<name>InfoCpuRam</name>
+	<version>0.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+			<maxiOS>15.8</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Es un paquete que instala trollrecorder y chargelimiter, trollstore si da error hay que intalarlo manualmente desde trollstore. Se encuentran las .tipa en /var/jb/tmp/* Requires iOS 15.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
