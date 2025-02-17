@@ -1,0 +1,25 @@
+<package>
+	<id>com.yourcompany.startsh</id>
+	<name>startsh</name>
+	<version>0.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+			<maxiOS>15.8</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Es un paquete que auto arranca un bash .sh en ios segun arrancas el jailbreak, para labores de mantenimiento o backup, etc... Requires iOS 15.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
